@@ -30,13 +30,13 @@ Understanding how neural networks arrive at their predictions is essential for d
 
 ### Citation
 
-If you find our work useful in your research, please cite it as:
+If you find our work useful, please cite it as:
 
 ```bibtex
 @inproceedings{anani2026certified,
     title={Certified Circuits: Stability Guarantees for Mechanistic Circuits},
     author={Anani, Alaa and Lorenz, Tobias and Schiele, Bernt and Fritz, Mario and Fischer, Jonas},
-    booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+    booktitle={Proceedings of the 43rd International Conference on Machine Learning (ICML)},
     year={2026}
 }
 ```
