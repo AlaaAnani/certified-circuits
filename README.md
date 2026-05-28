@@ -16,6 +16,8 @@
 
 [![Website](https://img.shields.io/badge/Website-Certified%20Circuits-blue)](https://alaaanani.github.io/#/project/certified-circuits) [![arXiv](https://img.shields.io/badge/arXiv-2602.22968-b31b1b.svg)](https://arxiv.org/abs/2602.22968)
 
+**Code will be released soon.**
+
 <table>
   <tr>
     <td><img src="assets/teaser_circuit%20%281%29-1.png" alt="Certified Circuits teaser" height="280"></td>
